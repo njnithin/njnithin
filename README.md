@@ -3,7 +3,7 @@
 
 <!-- <img height="390em" src="img/programming.svg" /> -->
 
-![Flying](./img/log-in-girl.svg)
+<!-- ![Flying](./img/log-in-girl.svg) -->
 ![Flying](./img/welcome.svg)
 ### Hello Folks!!! 👋
 <!--
